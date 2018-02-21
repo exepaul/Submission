@@ -1,3 +1,11 @@
+# Assuming the following cipher: 1=A, 2=B, 3=C,...,26=Z,27=AA, 28=AB, … write a python function which takes two integers m and n (1 < m < n < 676) and prints the character equivalents of each in a new line. For eg. if the input was m=25 and n=29, it will output:
+# Y
+# Z
+# AA
+# AB
+# AC
+
+
 
 #user input , Keep asking input until user gives right input
 
