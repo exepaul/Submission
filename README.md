@@ -1,4 +1,3 @@
 # Submission
 Submission
-solved all Python pronblems without any library and it doesn't import any library
-
+I tried to solve all Python pronblems without importing any library or built-in functions and in pure python.
