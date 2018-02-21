@@ -42,10 +42,3 @@ print sort_by_length(user_input)
 print list(map(lambda x:user_input[x[1]],sorted([(len(i),j) for j,i in enumerate(user_input)])))
 
 #['c', 'ni', 'chat', 'niki', 'nikichatbot', 'nikichatbotartificial']
-
-
-
-
-
-
-
